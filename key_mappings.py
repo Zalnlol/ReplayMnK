@@ -46,4 +46,7 @@ KEY_MAPPING = {
     '\u001b': '`',  # Ctrl + `
     ' ': ' ',       # Ctrl + space
     # Add more mappings as needed
+
+
+    # Currently Ctrl + number does not working, Recorder does not recognize number if using in combination
 }
